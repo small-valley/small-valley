@@ -6,7 +6,7 @@
   <br>
 
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/masahiro-kotani-ab64841a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/masahiro-kotani-ab64841a7/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a></p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2><br>
 <p align="center">
