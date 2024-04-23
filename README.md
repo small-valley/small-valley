@@ -23,6 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=small-valley&theme=transparent&show_icons=true" />
 </p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-valley&layout=compact" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-valley&layout=compact&theme=transparent" />
+</p>
