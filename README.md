@@ -2,8 +2,6 @@
 <p align="center">
   Hi, I'm Masahiro, Software Developer with 7+ years experience.
   <br>
-  📚 I’m currently focusing on frontend side.
-  <br>
 
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/masahiro-kotani-ab64841a7/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a></p>
@@ -25,3 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=small-valley&theme=transparent&show_icons=true" />
 </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-valley&layout=compact" />
+  </p>
