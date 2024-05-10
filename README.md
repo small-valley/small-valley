@@ -15,6 +15,19 @@
   <img width="48" height="48" src="https://img.icons8.com/officel/40/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+</p>
+<hr>
+<h2 align="center">🦾 Infrastructures 🦾</h2><br>
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/>
 </p>
 <hr>
 
