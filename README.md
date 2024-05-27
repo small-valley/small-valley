@@ -11,12 +11,13 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/96/typescript.png" alt="typescript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angular"/>
   <img width="48" height="48" src="https://img.icons8.com/officel/40/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
 </p>
 <hr>
 <h2 align="center">🦾 Infrastructures 🦾</h2><br>
